@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning C++
 - 💬 Ask me about my day
 - 📫 How to reach me: twitter @astromdm 😄
-                                    # **GARRYS'S MOD FOREVER**
+
+                                 ### Garry's Mod dev
+                                   
 -Level Design
 -Map creator
